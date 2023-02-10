@@ -6,7 +6,7 @@
     padding: 0;
 }
 .sidebar{
-    background-color: rgb(26, 0, 99);
+    background-color: rgb(45, 119, 54);
     width: 434px;
     font-family: 'Fjalla One', sans-serif;
 }
@@ -22,7 +22,7 @@
 }
 .sidebar nav li a{
     text-decoration: none;
-    color: rgb(255, 179, 66);
+    color: rgb(233, 229, 21);
 }
 
 
@@ -37,7 +37,7 @@
     display: flex;
 }
 .main marquee{
-    color: rgb(26, 43, 192);
+    color: rgb(241, 9, 9);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 200%;
 }
@@ -55,7 +55,7 @@
     justify-content: center;
     flex-direction: column;
     font-family: 'Fjalla One', sans-serif;
-    color: rgb(26, 43, 192);
+    color: rgb(240, 9, 9);
     margin-left: 20px;
 }
 
